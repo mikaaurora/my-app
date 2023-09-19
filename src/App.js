@@ -17,7 +17,7 @@ function App() {
     if (counter >= photos.length) {
       counter = 0
     }
-    // 3. Update state using the setter function
+    // 3. Update state using the setter function.
     // - This should update the picture each time the user clicks the button.
   }
 
